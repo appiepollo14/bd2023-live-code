@@ -47,7 +47,7 @@
             <!-- See for versions: https://weld.cdi-spec.org/documentation/#9 -->
             <!--<version>2.4.8.Final</version>-->       <!--contains CDI1.2-->
             <!--<version>3.1.2.Final</version>--><!--contains CDI2.0-->
-            <version>5.0.1.Final</version> <!--contains CDI4.0-->
+            <version>5.1.0.Final</version> <!--contains CDI4.0-->
         </dependency>
         <!--testing-->
         <dependency>
